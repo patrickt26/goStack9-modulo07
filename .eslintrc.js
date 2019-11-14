@@ -33,6 +33,7 @@ module.exports = {
     'react/state-in-constructor': 'off',
     'react/static-property-placement': 'off',
     'react/jsx-props-no-spreading': 'off',
-    'react/sort-comp': 'off'
+    'react/sort-comp': 'off',
+    'jsx-a11y/control-has-associated-label': 'off'
   },
 };
