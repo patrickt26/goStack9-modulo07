@@ -34,6 +34,8 @@ module.exports = {
     'react/static-property-placement': 'off',
     'react/jsx-props-no-spreading': 'off',
     'react/sort-comp': 'off',
-    'jsx-a11y/control-has-associated-label': 'off'
+    'jsx-a11y/control-has-associated-label': 'off',
+    'no-param-reassign': 'off',
+    'no-console': ["error", { allow: ["tron"] }]
   },
 };
